@@ -1,2 +1,2 @@
 # ising_sim
-Ising Model Simulation
+2D Ising Model Simulation with statistical distance optimization
